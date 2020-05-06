@@ -1,0 +1,35 @@
+  {
+    "Key": "Treasurebox_SIP009",
+    "Value": {
+      "Id": 62,
+
+
+      "ShardId": "None",
+      "ShardRate": 0.0,
+      "RareItemId": "OracleBlade",
+      "RareItemQuantity": 1,
+      "RareItemRate": 100.0,
+      "CommonItemId": "Speedstar",
+      "CommonItemQuantity": 1,
+      "CommonRate": 100.0,
+      "RareIngredientId": "Valkyriedress",
+      "RareIngredientQuantity": 1,
+      "RareIngredientRate":  100.0,
+      "CommonIngredientId": "Gebelsglasses",
+      "CommonIngredientQuantity": 1,
+      "CommonIngredientRate":  100.0,
+      "CoinType": "EDropCoin::D1000",
+      "CoinOverride": 20000,
+      "CoinRate": 100,
+      "AreaChangeTreasureFlag": true
+
+
+    }
+  },
+	  
+
+
+
+Brown chest next to the shop:	Treasurebox_VIL003
+Normally holds: 				 1x Waystone
+Now holds:						10x Oric

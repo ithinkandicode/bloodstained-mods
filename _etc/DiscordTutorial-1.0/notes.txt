@@ -1,0 +1,5 @@
+You can view README.md in your browser with the Chrome Extension Markdown Viewer:
+
+https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
+
+You'll need to enable "Allow access to file URLs" in the extension settings

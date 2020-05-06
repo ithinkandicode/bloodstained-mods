@@ -1,0 +1,60 @@
+Improved Descriptions
+
+
+
+[color=#b877b7][size=5]Info[/size][/color]
+
+MOD_DESCRIPTION
+
+[color=#6aa84f][size=4]SUBHEADING[/size][/color]
+
+MOD_DETAILS
+
+
+[color=#6aa84f][size=4]Mod Combos[/size][/color]
+
+This mod pairs well with:
+
+[list]
+[*][url=https://www.nexusmods.com/bloodstainedritualofthenight/mods/33]Max Stack Plus[/url]﻿ by [url=https://www.nexusmods.com/bloodstainedritualofthenight/users/72190828]TyrantThanatos[/url]﻿﻿
+[/list]
+
+
+[color=#b877b7][size=5]How to Use[/size][/color]
+
+See Docs﻿ for instructions.
+
+
+
+[color=#b877b7][size=5]Compatibility[/size][/color]
+
+[color=#00ff00]Compatible with all currently released mods.[/color]
+[color=#e06666]Not compatible with some mods.[/color]
+
+Any mod that affects the file below will conflict with this one.
+
+[color=#999999]Core\DataTable\[/color]FILE_NAME[color=#999999].uasset[/color]
+
+This file affects: FILE_AFFECTS
+
+If you're a modder and would like to incorporate this mod into yours, there's a JSON file with this mod's edits in Files. You can merge files with programs like WinMerge.
+
+
+
+[color=#b877b7][size=5]Updates[/size][/color]
+
+22nd August 2019:
+
+[list]
+[*]Released version 1
+[/list]
+
+
+
+[color=#b877b7][size=5]Credits[/size][/color]
+
+Idea by [b]???[/b].
+
+Made possible by [b]Kein[/b].
+
+[center][url=http://discord.gg/b9XBH4f][img]https://i.imgur.com/eKefjaK.png[/img][/url][/center]

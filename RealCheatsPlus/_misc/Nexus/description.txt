@@ -1,0 +1,38 @@
+Replaces default cheat codes with REAL cheats.
+
+Effects range from minor boosts to sequence breakers.
+
+[list]
+[*][code]ADAPTABLE[/code] ─ Unlock all shortcuts
+[*][code]NIGHTMARE[/code] ─ Unlock all difficulties (default effect)
+[*][code]TINYHEAD[/code] ─ Opposite of Bighead mode
+[*][code]6666[/code] ─ Start with Warhorse's Key
+[*][code]BANDANA[/code] ─ Start with Recycle Hat
+[*][code]BEATTHEGRIND[/code] ─ Start with Solomon's Ring x2
+[*][code]BIRDSEYE[/code] ─ Start with Eye of Horus
+[*][code]BLUEBLUR[/code] ─ Start with Accelerator
+[*][code]BUNNY[/code] ─ Start with Bunnymorphosis (grade 5)
+[*][code]BIZSAVVY[/code] ─ Start with Discount Card
+[*][code]COWABUNGA[/code] ─ Start with Pizza x24
+[*][code]CRISSAEGRIM[/code] ─ Start with Rhava Búral
+[*][code]FASTER[/code] ─ Start with Speed Belt
+[*][code]FIREFLOWER[/code] ─ Start with 8-bit Fire Ball
+[*][code]GLASSCANNON[/code] ─ Start with Risk Ring x2
+[*][code]ICANSEEFOREVER[/code] ─ Start with Detective Eye (grade 3)
+[*][code]INDECISIVE[/code] ─ Start with 8-bit coin x20
+[*][code]LEGENDARYHERO[/code] ─ Start with Shovel Knight Armor
+[*][code]LILYFANCLUB[/code] ─ Start with Bunny Ears
+[*][code]ROYALALCHEMIST[/code] ─ Start with Gold x99
+[*][code]SEQUENCEBREAK[/code] ─ Start with High Jump
+[*][code]SHARDMASTER[/code] ─ Start with Gebel's Glasses
+[*][code]SLOOWMOOTIOON[/code] ─ Start with Lethargy
+[*][code]SNIPER[/code] ─ Start with Diamond Bullets x29
+[*][code]SPIKEBREAKER[/code] ─ Start with Aegis Plate
+[*][code]STRONGLEGS[/code] ─ Start with Double Jump
+[*][code]UPALLNIGHT[/code] ─ Start with the Godsend Tome
+[/list]
+You can use thor777's [url=https://www.nexusmods.com/bloodstainedritualofthenight/mods/44]All Cheat Code Items[/url] to use default cheat items with these codes.
+
+See Docs tab for instructions.
+
+Feedback and suggestions are welcome.

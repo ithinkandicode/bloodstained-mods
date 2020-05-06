@@ -1,0 +1,25 @@
+ {
+   "Key": "Mercury",
+   "Value": {
+      "Type": "ECraftType::Craft",
+      "CraftItemId": "Mercury",
+      "CraftValue": 20,
+      "RankMin": 0,
+      "RankMax": 0,
+      "Ingredient1Id": "Orichalcum",
+      "Ingredient1Total": 1,
+      "Ingredient2Id": "None",
+      "Ingredient2Total": 0,
+      "Ingredient3Id": "None",
+      "Ingredient3Total": 0,
+      "Ingredient4Id": "None",
+      "Ingredient4Total": 0,
+      "OpenKeyRecipeID": "Orichalcum",
+      "openCondition": "EPBCraftRequirement::None",
+      "openParameter": 0,
+      "firstTimeBonusSpecialEffectId": "None",
+      "Alkhahest": 10,
+      "FirstBonusType": [],
+      "FirstBonusValue": []
+   }
+}

@@ -1,0 +1,35 @@
+[color=#c27ba0][size=5]Info[/size][/color]
+
+MOD_DESCRIPTION
+
+[color=#6aa84f][size=4]SUBHEADING[/size][/color]
+
+MOD_DETAILS
+
+
+[color=#c27ba0][size=5]How to Use[/size][/color]
+
+See Docs﻿ for instructions.
+
+
+[color=#c27ba0][size=5]Compatibility[/size][/color]
+
+[color=#00ff00]Compatible with all currently released mods.[/color]
+[color=#e06666]Not compatible with some mods.[/color]
+
+Any mod that affects the file below will conflict with this one.
+
+[color=#999999]Core\DataTable\[/color]PB_DT_EnchantParameterType.uasset
+
+This file affects: FILE_AFFECTS
+
+If you're a modder and would like to incorporate this mod into yours, there's a JSON file with this mod's edits in Files. You can merge files with programs like WinMerge.
+
+
+[color=#c27ba0][size=5]Credits[/size][/color]
+
+Idea by [b]joneirik[/b].
+
+Made possible by [b]Kein[/b].
+
+[center][url=http://discord.gg/b9XBH4f][img]https://i.imgur.com/eKefjaK.png[/img][/url][/center]

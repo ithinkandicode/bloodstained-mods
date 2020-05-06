@@ -1,0 +1,1 @@
+"C:\pr\Mods\Bloodstained\_etc\_discordtutorial\Mods\ExampleMod\PakContents\*.*" "..\..\..\*.*" 

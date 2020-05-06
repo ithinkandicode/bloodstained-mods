@@ -1,0 +1,254 @@
+[
+ {
+   "Key": "Code01",
+   "Value": {
+      "CheatCode": "TINYHEAD",
+      "CheatEffect": "EPBCheatCommandType::BigHead",
+      "Option1": "",
+      "Option2": 50
+   }
+},
+ {
+   "Key": "NIGHTMARE",
+   "Value": {
+      "CheatCode": "NIGHTMARE",
+      "CheatEffect": "EPBCheatCommandType::NIGHTMARE",
+      "Option1": "",
+      "Option2": 0
+   }
+},
+ {
+   "Key": "WarhorsesKeyRevenant",
+   "Value": {
+      "CheatCode": "6666",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Keyofbacker2",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Shortcuts",
+   "Value": {
+      "CheatCode": "ADAPTABLE",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Shortcut",
+      "Option2": 7
+   }
+},
+ {
+   "Key": "InfiniteAmmo",
+   "Value": {
+      "CheatCode": "BANDANA",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Recyclehat",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "ShardDropRing",
+   "Value": {
+      "CheatCode": "BEATTHEGRIND",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "RingofSolomon",
+      "Option2": 2
+   }
+},
+ {
+   "Key": "ZoomOutHeadgear",
+   "Value": {
+      "CheatCode": "BIRDSEYE",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Horuseyes",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Accelerator",
+   "Value": {
+      "CheatCode": "BLUEBLUR",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Accelerator",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Bunnymorphosis",
+   "Value": {
+      "CheatCode": "BUNNY",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "ChangeBunny",
+      "Option2": 5
+   }
+},
+ {
+   "Key": "PilotCard",
+   "Value": {
+      "CheatCode": "BIZSAVVY",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "DiscountCard",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Pizza",
+   "Value": {
+      "CheatCode": "COWABUNGA",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Pizza",
+      "Option2": 24
+   }
+},
+ {
+   "Key": "RhavaBural",
+   "Value": {
+      "CheatCode": "CRISSAEGRIM",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "WalalSoulimo",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "SpeedBelt",
+   "Value": {
+      "CheatCode": "FASTER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Speedstar",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "FireFlower",
+   "Value": {
+      "CheatCode": "FIREFLOWER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "EightBitFire",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "RiskRing",
+   "Value": {
+      "CheatCode": "GLASSCANNON",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Riskring",
+      "Option2": 2
+   }
+},
+ {
+   "Key": "DetectiveEye",
+   "Value": {
+      "CheatCode": "ICANSEEFOREVER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Detectiveeye",
+      "Option2": 3
+   }
+},
+ {
+   "Key": "8bitCoins",
+   "Value": {
+      "CheatCode": "INDECISIVE",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "8BitCoin",
+      "Option2": 20
+   }
+},
+ {
+   "Key": "ShovelKnightArmor",
+   "Value": {
+      "CheatCode": "LEGENDARYHERO",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Shovelarmorsarmor",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "LuckyHeadgear",
+   "Value": {
+      "CheatCode": "LILYFANCLUB",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "BunnyEars",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "RoyalAlchemist",
+   "Value": {
+      "CheatCode": "ROYALALCHEMIST",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Gold",
+      "Option2": 99
+   }
+},
+ {
+   "Key": "HighJump",
+   "Value": {
+      "CheatCode": "SEQUENCEBREAK",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "HighJump",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "InfiniteMP",
+   "Value": {
+      "CheatCode": "SHARDMASTER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Gebelsglasses",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Lethargy",
+   "Value": {
+      "CheatCode": "SLOOWMOOTIOON",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "CurseDray",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "DiamondBullets",
+   "Value": {
+      "CheatCode": "SNIPER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "DiamondBullets",
+      "Option2": 30
+   }
+},
+ {
+   "Key": "SpikeBreakerArmr",
+   "Value": {
+      "CheatCode": "SPIKEBREAKER",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "BreastplateofAguilar",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "DoubleJump",
+   "Value": {
+      "CheatCode": "STRONGLEGS",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Doublejump",
+      "Option2": 2
+   }
+},
+ {
+   "Key": "LuckBook",
+   "Value": {
+      "CheatCode": "UPALLNIGHT",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "BookofFury",
+      "Option2": 1
+   }
+},
+ {
+   "Key": "Alkhahest999",
+   "Value": {
+      "CheatCode": "TEST1",
+      "CheatEffect": "EPBCheatCommandType::AddItem",
+      "Option1": "Alkhahest",
+      "Option2": 999
+   }
+}
+]

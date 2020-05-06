@@ -1,0 +1,14 @@
+
+Heal Green	26B16D	https://www.webfx.com/web-design/color-picker/26B16D
+Mana Blue	2673B1	https://www.webfx.com/web-design/color-picker/2673B1
+SE Yellow	C2AA44	https://www.webfx.com/web-design/color-picker/C2AA44
+Weapon Red	C2445C	https://www.webfx.com/web-design/color-picker/C2445C
+Art Purple	9A44C2	https://www.webfx.com/web-design/color-picker/9A44C2
+
+<span color=\"#26B16D\">HPEffect</>
+<span color=\"#2673B1\">MPEffect</>
+<span color=\"#C2AA44\">ItemEffect</>
+<span color=\"#C2445C\">WeaponEffect</>
+<span color=\"#9A44C2\">Technique: X</>
+
+<span color=\"#9A44C2\">Hidden Technique: Down, Down, Attack</> (requires 100% mastery)

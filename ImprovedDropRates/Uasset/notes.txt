@@ -1,0 +1,12 @@
+N3121	Eight Bit Zombie
+N3122	Eight Bit Ghost
+N2015	Eight Bit Overlord
+N3124	Eight Bit Skull
+
+8BitCoin
+16BitCoin
+32BitCoin
+
+8bit enememies can now drop 8/16/32bit coins (drop rates: 25%, 18%, 12%)
+
+Death Trap now has a chacne to drop Gold (15%)

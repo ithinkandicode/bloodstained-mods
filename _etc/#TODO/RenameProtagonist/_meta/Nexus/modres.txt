@@ -1,0 +1,7 @@
+Modding Resources
+ 
+Files modders can use to edit this mod. Includes:
+
+- Customised JSON
+- CSV for easy editing, converted from the JSON
+- Test file with links to online csv-json conversion tools

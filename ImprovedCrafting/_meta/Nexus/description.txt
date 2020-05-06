@@ -1,0 +1,59 @@
+[color=#c27ba0][size=5]Info[/size][/color]
+
+Crafting in Bloodstained is great fun, but...
+
+
+[color=#6aa84f][size=4]Reduced Alkahest Breakdown Costs[/size][/color]
+
+All items cost half the original Alkahest cost (rounded down, so 9 becomes 4).
+
+
+[color=#6aa84f][size=4]New Recipe: Alkahest[/size][/color]
+
+Recipe: Bat Fang x1, Melting Skull x1
+Makes: Alkahest x 10
+
+The required items are common drops (5%) from Bat and Bone Morte.
+
+Reason: The cost of Alkahest is too prohibitive. You can craft almost anything, it makes sense to craft Alakhest too.
+
+This may have been an originally intended recipe for Alkahest. These are early game items that build up quickly, and they're rarely used in other recipes.
+
+
+[color=#6aa84f][size=4]Mod Combos[/size][/color]
+
+This mod pairs well with:
+
+[list]
+[*][url=https://www.nexusmods.com/bloodstainedritualofthenight/mods/33]Max Stack Plus[/url] by [url=https://www.nexusmods.com/bloodstainedritualofthenight/users/72190828]TyrantThanatos[/url]
+[/list]
+
+
+[color=#c27ba0][size=5]How to Use[/size][/color]
+
+See Docs for instructions.
+
+
+[color=#c27ba0][size=5]Compatibility[/size][/color]
+
+[color=#00ff00]Compatible with all currently released mods.[/color]
+
+Any mod that affects the file below will conflict with this one.
+
+[color=#999999]Core\DataTable\[/color]PB_DT_CraftMaster[color=#999999].uasset[/color]
+
+This file affects: Crafting recipes including quantities, crafting requirements (eg, Ramen/R), first time food bonuses, which items can be crafted/broken down, and the min/max rank of shards.
+
+
+[color=#c27ba0][size=5]Feedback[/size][/color]
+
+Feedback, request and ideas are all welcome.
+
+
+[color=#c27ba0][size=5]Credits[/size][/color]
+
+Idea and Alkahest recipe by [b]joneirik[/b] (ty!).
+
+Made possible by [b]Kein[/b].
+
+[center][url=http://discord.gg/b9XBH4f][img]https://i.imgur.com/eKefjaK.png[/img][/url][/center]

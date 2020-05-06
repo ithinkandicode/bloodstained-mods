@@ -1,0 +1,28 @@
+Key,Value/CheatCode,Value/CheatEffect,Value/Option1,Value/Option2
+Code00,BIGHEAD,EPBCheatCommandType::BigHead,,200
+TheSpeedGamers,THESPEEDGAMERS,EPBCheatCommandType::AddItem,ClockSowrd,1
+TheSpeedGamers,TheSpeedGamers,EPBCheatCommandType::AddItem,ClockSowrd,1
+StephenPlays,STEPHENPLAYS,EPBCheatCommandType::AddItem,LoveOfPizza,1
+ProtonJon,EGGFARM,EPBCheatCommandType::AddItem,HumptyDumpty,1
+NintendoCapriSun,INTHEBATHROOM,EPBCheatCommandType::AddItem,LoveOfBenki,1
+Chuggaaconroy,CHUGGAACONROY,EPBCheatCommandType::AddItem,Plan9FOSpace,1
+Chuggaaconroy,chuggaaconroy,EPBCheatCommandType::AddItem,Plan9FOSpace,1
+VideoGamesAWESOME!,AWESOMEVIDEOGAMES,EPBCheatCommandType::AddItem,BigMustache,1
+JoshJepson,JEPSON,EPBCheatCommandType::AddItem,KongSword,1
+SwimmingBird941,SWIMMINGBIRD,EPBCheatCommandType::AddItem,PlagueDoctorFace,1
+SwimmingBird941,swimmingbird,EPBCheatCommandType::AddItem,PlagueDoctorFace,1
+Mega64,JARVIS MEOWER,EPBCheatCommandType::AddItem,Mega64Head,1
+Mega64,Jarvis Meower,EPBCheatCommandType::AddItem,Mega64Head,1
+Egoraptor,HEYIMGRUMP,EPBCheatCommandType::AddItem,HeyI’mGrump,1
+Egoraptor,Egoraptor,EPBCheatCommandType::AddItem,HeyI’mGrump,1
+GameGrumps,NOTSOGRUMP,EPBCheatCommandType::AddItem,I’mNotSoGrump,1
+GameGrumps,Grumps,EPBCheatCommandType::AddItem,I’mNotSoGrump,1
+KindaFunnyGames,TEAMFAT,EPBCheatCommandType::AddItem,AKindaFunnyMask,1
+TheSw1tcher,BULLFIGHTER,EPBCheatCommandType::AddItem,The-BazMask,1
+Vinesauce,SPONGYVINE,EPBCheatCommandType::AddItem,SwordOfTheMushroom,1
+GameSack,8MEGAPOWER,EPBCheatCommandType::AddItem,PowerSword,1
+AlphaOmegaSin,ALPHAOMEGASIN,EPBCheatCommandType::AddItem,SilverAndBlackSword,1
+DungeonClan,DUNGEONITE,EPBCheatCommandType::AddItem,DungeonNightSword,1
+OperationAkumaclan,AKUMA,EPBCheatCommandType::AddItem,EvilTheSword,1
+OperationAkumaclan,Akuma,EPBCheatCommandType::AddItem,EvilTheSword,1
+NIGHTMARE,NIGHTMARE,EPBCheatCommandType::NIGHTMARE,,0
